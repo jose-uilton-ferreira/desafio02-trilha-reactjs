@@ -51,10 +51,9 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
-
+$ git clone git@github.com:jose-uilton-ferreira/desafio02-trilha-reactjs.git
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+$ cd desafio02-trilha-reactjs
 
 # Vá para a pasta server
 $ cd server
