@@ -23,7 +23,7 @@
 ---
 
 <div>
-  <img src="github/demo.gif">
+  <img src="./github/demo.gif">
 </div>
 
 <h2 id="sobre">💻️ Sobre o projeto</h2>
@@ -34,6 +34,7 @@ O projeto não foi construido do zero, a proposta do desafio era isolar a aplica
 ---
 
 <h2 id="funcionalidades">⚙️ Funcionalidades</h2>
+
 - Listar os gêneros disponíveis
   - Poder selecionar um gênero específico
 - Exibir os filmes de acordo com o gênero
@@ -89,6 +90,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [json-server](https://www.npmjs.com/package/json-server)
 
 <h2 id="autor">🦸 Autor</h2>
+
 ---
 
 <a href="https://www.linkedin.com/in/jos%C3%A9-uilton-ferreira-de-siqueira-399158198/">
