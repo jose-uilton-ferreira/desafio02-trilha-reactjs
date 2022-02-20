@@ -17,7 +17,7 @@
 </p>
 
 <h4 align="center"> 
-	✅  Projeto 🚀 Finalizado  ✅
+	✅  WatchMe 🚀 Finalizado  ✅
 </h4>
 
 ---
@@ -54,9 +54,6 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone git@github.com:jose-uilton-ferreira/desafio02-trilha-reactjs.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd desafio02-trilha-reactjs
-
-# Vá para a pasta server
-$ cd server
 
 # Instale as dependências
 $ npm install
